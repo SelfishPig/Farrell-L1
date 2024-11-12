@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1063">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="36ba30bac6cf4726859f49e9211efacd-ao-1" height="41.93548" width="125.80645" y="66.03226" x="521.29035" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="36ba30bac6cf4726859f49e9211efacd-ao-2" height="41.93548" width="151.61291" y="514.41936" x="505.16132" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="36ba30bac6cf4726859f49e9211efacd-ao-3" height="41.93548" width="116.12903" y="91.83871" x="1308.38713" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="36ba30bac6cf4726859f49e9211efacd-ao-4" y="37" x="379.35487" stroke-width="0" fill="#000000">FIll in the blank: Which section of spine is each image taken from</text>
+ </g>
+</svg>

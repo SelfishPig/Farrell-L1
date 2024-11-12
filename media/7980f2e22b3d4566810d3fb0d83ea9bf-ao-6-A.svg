@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1128" height="725">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-1" height="62.22222" width="255.55556" y="511.66667" x="30.88887" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-2" height="42.22222" width="255.55555" y="591.66667" x="315.33332" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-3" height="66.66667" width="188.88889" y="7.22222" x="428.66665" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-4" height="66.66667" width="295.55556" y="33.88889" x="17.55554" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-5" height="66.66667" width="111.11111" y="9.44444" x="697.55554" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-7" height="64.44444" width="115.55556" y="191.66667" x="704.2222" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-8" height="64.44444" width="111.11111" y="565" x="706.44442" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-9" height="48.88889" width="300" y="420.55556" x="826.44442" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-10" height="37.77778" width="342.22222" y="651.66667" x="659.77776" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-11" y="558.33333" x="437.55554" stroke-width="0" fill="#000000">Sympathetic Chain</text>
+  <line stroke="#2D2D2D" id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-12" y2="471.66667" x2="617.55553" y1="553.88889" x1="544.2222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="7980f2e22b3d4566810d3fb0d83ea9bf-ao-13" height="42.22221" width="211.11111" y="531.66667" x="337.55553" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+ </g>
+</svg>
